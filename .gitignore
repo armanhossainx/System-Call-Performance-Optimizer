@@ -32,3 +32,4 @@ results/stats/*
 !results/raw_perf/.gitkeep
 !results/stats/.gitkeep
 file_read_baseline
+syscall_count
