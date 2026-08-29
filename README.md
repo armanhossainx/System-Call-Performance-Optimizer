@@ -44,7 +44,9 @@
        alt="System Call Performance Optimizer Demo"
        width="800">
 </a>
+<br>
 
+*A short walkthrough of the benchmark methodology, implementation, and results.*
 </div>
 
 ---
