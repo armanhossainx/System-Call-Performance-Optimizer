@@ -39,7 +39,11 @@
 
 <div align="center">
 
-*A short walkthrough of the benchmark methodology, implementation, and results.*
+<a href="https://www.youtube.com/watch?v=lZCsafPlsx8">
+  <img src="https://img.youtube.com/vi/lZCsafPlsx8/maxresdefault.jpg"
+       alt="System Call Performance Optimizer Demo"
+       width="800">
+</a>
 
 </div>
 
